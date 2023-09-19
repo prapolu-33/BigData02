@@ -1,0 +1,16 @@
+"use"	1
+"using"	1
+"purpose."	1
+"for"	1
+"free"	1
+"i'm"	1
+"just"	1
+"please"	1
+"text"	1
+"text."	1
+"file."	1
+"simple"	1
+"testing"	1
+"any"	1
+"feel"	1
+"this"	2
